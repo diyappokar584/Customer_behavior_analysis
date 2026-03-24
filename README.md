@@ -12,9 +12,15 @@ The dataset used in this project is customer_shopping_behavior. It consists of 3
 - PostgreSQL
 - Power BI
 - Gamma
-- 
+  
 ## Steps
-1. Loading the dataset in Python. 2. Performing Exploratory Data Analysis (EDA). 3. Cleaning the data. 4. Running SQL queries on PostgreSQL. 5. Building a Power BI dashboard. 6. Creating a report in Power BI. 7. Making a PowerPoint presentation using Gamma.
+1. Loading the dataset in Python.
+2. Performing Exploratory Data Analysis (EDA).
+3. Cleaning the data.
+4. Running SQL queries on PostgreSQL.
+5. Building a Power BI dashboard.
+6. Creating a report in Power BI.
+7. Making a PowerPoint presentation using Gamma.
    
 ## Dashboard
 The Power BI dashboard provides a visual summary of the key insights from the data. It includes various charts, graphs, and tables to help stakeholders make informed decisions.
