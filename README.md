@@ -1,10 +1,10 @@
 # Customer_behavior_analysis
 Data analytics project analyzes customer purchasing behavior using Python, SQL, and Power BI. It identifies patterns in customer segmentation, spending habits, and sales trends to support data-driven decision-making.
 
-# overview
+## overview
 This project is a comprehensive data analytics workflow that includes data loading, exploratory data analysis (EDA), data cleaning, SQL querying, dashboard building, report creation, and presentation using a PowerPoint deck. It leverages Python, SQL, Power BI, and Gamma to provide a complete end-to-end data solution.
 
-# Dataset
+## Dataset
 The dataset used in this project is customer_shopping_behavior. It consists of 3900 rows and 18 columns, covering  Customer demographics (Age, Gender, Location, Subscription Status) - Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color) - Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type) 
 
 ## Tools
