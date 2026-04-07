@@ -54,7 +54,7 @@ The project delivers a comprehensive analysis of the dataset, highlighting key t
 ---
 
 ## DashBoard Image 
-check Airbnb.pdf
+check Dashboard.pdf
 
 ---
 
