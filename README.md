@@ -47,6 +47,9 @@ The project delivers a comprehensive analysis of the dataset, highlighting key t
 2. Install the required dependencies using pip install -r requirements.txt.
 3. Load the dataset using the provided Python script.
 4. Perform EDA and data cleaning.
+5. Run the SQL queries on PostgreSQL.
+6. Build the Power BI dashboard and generate the report.
+7. View the results and insights.
 
 ---
 
@@ -54,8 +57,6 @@ The project delivers a comprehensive analysis of the dataset, highlighting key t
 check Airbnb.pdf
 
 ---
-6. Run the SQL queries on PostgreSQL.
-7. Build the Power BI dashboard and generate the report.
-8. View the results and insights.
 
-This project demonstrates a complete data analytics workflow from data loading to presentation, providing valuable insights and actionable recommendations.
+
+This project demonstrates a complete data analytics workflow from data loading to  providing valuable insights and actionable recommendations.
