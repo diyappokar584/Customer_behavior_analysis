@@ -13,7 +13,7 @@ The dataset used in this project is customer_shopping_behavior. It consists of 3
 
 ---
 
-## Tools
+## Tools Technology
 - Python
 - PostgreSQL
 - Power BI
