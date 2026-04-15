@@ -4,7 +4,7 @@ Data analytics project analyzes customer purchasing behavior using Python, SQL, 
 ---
 
 ## overview
-This project is a comprehensive data analytics workflow that includes data loading, exploratory data analysis (EDA), data cleaning, SQL querying, dashboard building, report creation, and presentation using a PowerPoint deck. It leverages Python, SQL, Power BI, and Gamma to provide a complete end-to-end data solution.
+This project is a comprehensive data analytics workflow that includes data loading, exploratory data analysis (EDA), data cleaning, SQL querying, dashboard building, report creation, and presentation using a PowerPoint deck. It leverages Python, SQL, Power BI to provide a complete end-to-end data solution.
 
 ---
 
@@ -17,7 +17,7 @@ The dataset used in this project is customer_shopping_behavior. It consists of 3
 - Python
 - PostgreSQL
 - Power BI
-- Gamma
+- Jupytor Notebook
 
   ---
   
